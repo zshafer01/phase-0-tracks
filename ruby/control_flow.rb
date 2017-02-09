@@ -1,4 +1,5 @@
 # We can evaluate boolean variables and values
+# done_with_phase0 =
 if done_with_phase0
   p "Great job!"
 else
@@ -7,6 +8,7 @@ end
 
 # We can use built-in predicate methods to return true/false values
 # to evaluate using the if/else statement
+# number =
 if number.odd?
   p "This is an odd number."
 else
@@ -14,6 +16,7 @@ else
 end
 
 # We can use different operators to evaluate as well
+# num =
 if num > 0
   p "This number is positive"
 elsif num < 0
@@ -23,7 +26,7 @@ else
 end
 
 # Let's set a variable based on a condition met
-pizza_size = "large"
+# pizza_size = ""
 
 if pizza_size == "small"
   price = 10
