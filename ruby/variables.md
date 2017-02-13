@@ -14,6 +14,7 @@ For each of the situations below, read the description of the data.  Then, selec
   
 3.  David played five games of pinball.  His scores ranged from 970,374 up to a whopping 911,370,670.  When he added up all his scores and divided by five, the result was 186,063,348.
 
+  `<???> = 5`  
   `<???> = 970_374`  
   `<???> = 911_370_670`  
   `<???> = 186_063_348`
