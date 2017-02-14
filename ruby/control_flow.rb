@@ -1,42 +1,49 @@
 # We can evaluate boolean variables and values
+# Try setting the variable below to both true and then false
+# to see how the result changes
 # done_with_phase0 =
-if done_with_phase0
-  p "Great job!"
+if done_with_phase0 == true
+  feedback = "Great job!"
 else
-  p "You're doing swell, keep it up!"
+  feedback = "You're doing swell, keep it up!"
 end
+
+p feedback
 
 # We can use built-in predicate methods to return true/false values
 # to evaluate using the if/else statement
 # number =
 if number.odd?
-  p "This is an odd number."
+  number_result = "This is an odd number."
 else
-  p "This is not an odd number - its even."
+  number_result = "This is not an odd number - its even."
 end
+
+p number_result
 
 # We can use different operators to evaluate as well
 # num =
 if num > 0
-  p "This number is positive"
+  result = "This number is positive"
 elsif num < 0
-  p "This number is negative"
+  result = "This number is negative"
 else
-  p "This number is zero"
+  result = "This number is zero"
 end
+
+p result
 
 # Let's set a variable based on a condition met
 # pizza_size = ""
 
 if pizza_size == "small"
-  price = 10
-  p "Your pizza costs #{price} dollars"
+  slices = 8
 elsif pizza_size == "medium"
-  price = 13
-  p "Your pizza costs #{price} dollars"
+  slices = 12
 elsif pizza_size == "large"
-  price = 16
-  p "Your pizza costs #{price} dollars"
+  slices = 16
 else
-  p "We've only got three pizza sizes."
+  slices = 0
 end
+
+p "Your pizza has #{slices} slices."
