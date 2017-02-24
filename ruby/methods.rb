@@ -38,6 +38,17 @@ end
 
 
 
+# 4. Write a method named calculate_tip.
+#    It has two parameters.
+#    One is a bill amount. ($5.25 would be passed in as 5.25)
+#    The second is the tip percentage.  (15% would be passed in as 0.15)
+#    The method returns the tip amount in dollars rounded to the nearest penny. ("$3.17")
+#
+# Pseudocode:
+#
+
+
+
 # Below is some driver code that will tell you
 # whether your methods are working properly.
 # The driver code will only execute
@@ -74,4 +85,8 @@ if $0 == __FILE__
   puts "10. #{hide_all("abc", "abcd abcd") == "___d ___d"}\thide_all(\"abc\", \"abcd abcd\") should return \"___d ___d\""
   puts "11. #{hide_all("xyz", "wxyz wxyz") == "w___ w___"}\thide_all(\"xyz\", \"wxyz wxyz\") should return \"w___ w___\""
   puts "12. #{hide_all("fg", "efgh") == "e__h"}\thide_all(\"fg\", \"efgh\") should return \"e__h\""
+
+  puts "calculate_tip"
+  puts "13. #{calculate_tip(15.00, 0.15) == "$2.25"}\tcalculate_tip(15.00, 0.15) should return \"#{2.25}\""
+  puts "14. #{calculate_tip(10.00, 0.10) == "$1.00"}\tcalculate_tip(10.00, 0.10) should return \"#{1.00}\""
 end
