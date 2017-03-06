@@ -1,35 +1,4 @@
-#Release 0: What's in a Name
-For each of the situations below, read the description of the data.  Then, select a descriptive variable name for that data.  Record your variable name by replacing the <???> with the values.
-
-1.  The local roller skating rink requires children under the age of 13 to be accompanied by a guardian.  Anyone whose age is 13 and up can enter unsupervised.
-
-  `<???> = 13`
-  
-2.  The proud parents named their new baby Sidney Camille Combs.
-
-  `<???> = "Sidney"`  
-  `<???> = "Camille"`  
-  `<???> = "Combs"`  
-  `<???> = "Sidney Camille Combs"`
-  
-3.  David played five games of pinball.  His scores ranged from 970,374 up to a whopping 911,370,670.  When he added up all his scores and divided by five, the result was 186,063,348.
-
-  `<???> = 5`  
-  `<???> = 970_374`  
-  `<???> = 911_370_670`  
-  `<???> = 186_063_348`
-  
-4.  The caller at the bingo hall took a look at the ball and called out, "B-12!"
-
-  `<???> = "B-12"`
-  
-5.  The doctor asked, "Where does it hurt?".  The patient replied, "Everywhere!"
-
-  `<???> = "Where does it hurt?"`  
-  `<???> = "Everywhere"`
-
-
-# Release 1: Variable Assignment
+# Release 0: Variable Assignment
 For each code snippet, read through the code. Determine what you expect each variable's value to be at the end of the snippet. Record your expectations. Then, run the code snippet in IRB and record the actual value of the variables.  Record the expected and actual values by replacing the <???>.
 
 
@@ -111,3 +80,32 @@ For each code snippet, read through the code. Determine what you expect each var
 
 
 
+#Release 1: What's in a Name
+For each of the situations below, read the description of the data.  Then, select a descriptive variable name for that data.  Record your variable name by replacing the <???> with the values.
+
+1.  The local roller skating rink requires children under the age of 13 to be accompanied by a guardian.  Anyone whose age is 13 and up can enter unsupervised.
+
+  `<???> = 13`
+  
+2.  The proud parents named their new baby Sidney Camille Combs.
+
+  `<???> = "Sidney"`  
+  `<???> = "Camille"`  
+  `<???> = "Combs"`  
+  `<???> = "Sidney Camille Combs"`
+  
+3.  David played five games of pinball.  His scores ranged from 970,374 up to a whopping 911,370,670.  When he added up all his scores and divided by five, the result was 186,063,348.
+
+  `<???> = 5`  
+  `<???> = 970_374`  
+  `<???> = 911_370_670`  
+  `<???> = 186_063_348`
+  
+4.  The caller at the bingo hall took a look at the ball and called out, "B-12!"
+
+  `<???> = "B-12"`
+  
+5.  The doctor asked, "Where does it hurt?".  The patient replied, "Everywhere!"
+
+  `<???> = "Where does it hurt?"`  
+  `<???> = "Everywhere"`
