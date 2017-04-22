@@ -10,3 +10,5 @@ A branch allows the user to make meaniningful edits without harming the master c
 A good commit message is one that is insightful, quaint, and to the point of what is being done.
 * What is a merge conflict?
 A merge conflict is when you merge from a branch  which then conflicts with the command. 
+
+Hey there! How are you!
