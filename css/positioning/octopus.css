@@ -1,0 +1,16 @@
+img {
+     margin-top: 250px;
+     margin-bottom: 100px;
+     margin-right: 50px;
+     margin-left: 600px;
+}
+img.relative {
+	      position:relative;
+	      bottom:750px;
+	      left: 20px;
+}
+img.relative1 {
+	       position:relative;
+	       left:80px;
+	       bottom:1150px;
+}
