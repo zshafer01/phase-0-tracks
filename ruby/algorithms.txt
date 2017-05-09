@@ -1,3 +1,5 @@
+Elevator: 
+
 - Decide if you would like to travel up or down:
 	- If the answer is 'Y' to Up hit the Up Arrow
 	- If the answer is anything but 'Y' hit the down arrow
@@ -10,3 +12,25 @@
 - Otherwise:
 	- If the friend responds 
 		- Press the floor button they provide you 
+
+Attendance on a Meeting:
+
+
+- For each member on the invite list for your meeting
+	- Until you hear their prompt, or until you have attempted three times:
+		-Call the coworkers name
+	-If no response:
+		- Mark as absent
+
+Pumping Gas decision: 
+
+- Wait until gas pump send prompt it is ready to pump gas
+- Decide if you will pay with credit / debit?
+	- If 'Y' then swipe card
+	- If 'N'then click pay inside icon
+- Decide on which type of gas to pump:
+	- If 'Unleaded'= 'Y' click unleaded
+Otherwise: 
+	- If you want premium:
+		- Click the premium button
+
