@@ -1,0 +1,36 @@
+Elevator: 
+
+- Decide if you would like to travel up or down:
+	- If the answer is 'Y' to Up hit the Up Arrow
+	- If the answer is anything but 'Y' hit the down arrow
+- Wait until elevator door opens and enter the vessel
+- Review each floor level button on the panel of buttons 
+	- Until a floor is seen in which you want to exit the elevator
+		- Call your friend who lives in the building
+		- Ask which floor you should exit the elevator on
+- If no answer from your friend press the 'L' button for lobby and exit the elevator
+- Otherwise:
+	- If the friend responds 
+		- Press the floor button they provide you 
+
+Attendance on a Meeting:
+
+
+- For each member on the invite list for your meeting
+	- Until you hear their prompt, or until you have attempted three times:
+		-Call the coworkers name
+	-If no response:
+		- Mark as absent
+
+Pumping Gas decision: 
+
+- Wait until gas pump send prompt it is ready to pump gas
+- Decide if you will pay with credit / debit?
+	- If 'Y' then swipe card
+	- If 'N'then click pay inside icon
+- Decide on which type of gas to pump:
+	- If 'Unleaded'= 'Y' click unleaded
+Otherwise: 
+	- If you want premium:
+		- Click the premium button
+
