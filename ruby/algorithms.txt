@@ -1,0 +1,12 @@
+- Decide if you would like to travel up or down:
+	- If the answer is 'Y' to Up hit the Up Arrow
+	- If the answer is anything but 'Y' hit the down arrow
+- Wait until elevator door opens and enter the vessel
+- Review each floor level button on the panel of buttons 
+	- Until a floor is seen in which you want to exit the elevator
+		- Call your friend who lives in the building
+		- Ask which floor you should exit the elevator on
+- If no answer from your friend press the 'L' button for lobby and exit the elevator
+- Otherwise:
+	- If the friend responds 
+		- Press the floor button they provide you 
